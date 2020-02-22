@@ -6,7 +6,7 @@
       "branch":"ten"
    },
    {  
-      "repository":" vendor_xiaomi",
+      "repository":"vendor_xiaomi",
       "target_path":"vendor/xiaomi",
       "branch":"ten"
    },
